@@ -1,6 +1,6 @@
 ---
-title: Most AWE.SOME Features
-afterTitle: ...and so much more!
+title: Skills
+afterTitle: Here is some of my recent work
 type: features
 ---
 
