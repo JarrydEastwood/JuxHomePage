@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Test1
 type: register
 ---
 
