@@ -1,6 +1,6 @@
 ---
 title: Skills
-afterTitle: Recent work
+afterTitle: Examples
 type: features
 ---
 
