@@ -4,4 +4,4 @@ afterTitle: Examples
 type: features
 ---
 
-Get down to business
+What we can do

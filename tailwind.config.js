@@ -975,3 +975,18 @@ module.exports = {
   },
   plugins: [],
 }
+
+module.exports = {
+  theme: {
+    fontFamily: {
+      display: ['bryant-web, sans-serif'],
+      },
+    extend: {
+      colors: {
+        pink: {
+          950: '#F8B4D4',
+        },
+      }
+    },
+  }
+}
