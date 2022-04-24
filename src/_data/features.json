@@ -1,28 +1,28 @@
 [
   {
-    "title": "AWE.SOME Feature One",
-    "icon": "icon1.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
-  },
-  {
-    "title": "AWE.SOME Feature Two",
+    "title": "Web Design",
     "icon": "icon2.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "Web Design"
   },
   {
-    "title": "AWE.SOME Feature Three",
+    "title": "Wireframing",
+    "icon": "icon1.svg",
+    "content": "Low fidelity, Figma high fidelity"
+  },
+  {
+    "title": "Web Development",
     "icon": "icon3.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "Experience working with HTML, CSS, Javascript, Nunjucks, Node.js, "
   },
   {
-    "title": "AWE.SOME Feature Four",
+    "title": "Branding",
     "icon": "icon4.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "Using profressional software such as Adobe Creative Suite to create Logos, social presence, pages and posts, packaging, content writing, "
   },
   {
-    "title": "AWE.SOME Feature Five",
+    "title": "Corporate Design",
     "icon": "icon5.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "content": "Inforgraphics"
   },
   {
     "title": "AWE.SOME Feature Six",
