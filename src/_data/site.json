@@ -1,17 +1,17 @@
 {
-  "baseURL": "https://awesome11ty.ttntm.me",
-  "author": "AWE.SOME",
+  "baseURL": "https://juxforyou.netlify.app",
+  "author": "Jarryd Battishill",
   "description": "Description",
   "title": "JUX for you",
   "language": "en",
   "social": [
     {
-      "title": "Twitter",
-      "url": "https://twitter.com/#"
+      "title": "Instagram",
+      "url": "https://www.instagram.com/juxforyou/?hl=en"
     },
     {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/company/#"
+      "url": "https://www.instagram.com/juxforyou/?hl=en"
     }
   ]
 }
