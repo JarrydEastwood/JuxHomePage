@@ -1,6 +1,5 @@
 ---
-title: Hey, I'm Jarryd, an Interaction Design Student at UC
+title: Hey, I'm Jarryd
 type: about
 ---
-
-My wife Amy and I run a Design Studio called JUX, where we create custom designs and solutions to help your business become everything you want it to be.
+My wife Amy and I run JUX as a collaboration to create truly unique peices that capture a perfect juxtaposition of what our clients want and their clients expect

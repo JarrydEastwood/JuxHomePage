@@ -984,7 +984,7 @@ module.exports = {
     extend: {
       colors: {
         pink: {
-          950: '#F8B4D4',
+          950: '#F7A1C9',
         },
       }
     },
