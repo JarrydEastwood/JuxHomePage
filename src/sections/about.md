@@ -1,6 +1,6 @@
 ---
-title: Hey, I'm Jarryd
+title: Hey, I'm Jarryd, an Interaction Design Student at UC
 type: about
 ---
 
-An Interaction Design student at the University of Canberra
+My wife Amy and I run a Design Studio called JUX, where we create custom designs and solutions to help your business become everything you want it to be.

@@ -1,6 +1,5 @@
 ---
 title: Skills
-afterTitle: Examples
 type: features
 ---
 
