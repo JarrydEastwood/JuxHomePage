@@ -26,7 +26,7 @@ html {
 
     body::-webkit-scrollbar-thumb
     {
-        background-color: #3aedbd;
+        background-color: #F7A1C9;
     }
 }
 
@@ -81,9 +81,9 @@ html {
     transition: all 400ms ease;
 }
 .animatedbg {
-  background: #aa4b6b;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #3b8d99, #6b6b83, #aa4b6b);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #3b8d99, #6b6b83, #aa4b6b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #F7A1C9;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #199baf, #6868d5, #F7A1C9);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #199baf, #6868d5, #F7A1C9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background-size: 400% 400%;
   animation: gradient 15s 5s ease-in infinite;
 }
