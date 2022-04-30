@@ -8,6 +8,17 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.prose table {
+  border-spacing: 0;
+}
+
+.prose blockquote,
+.prose table,
+.prose img,
+.prose pre {
+  box-shadow: 3px 3px 0 0 #000;
+}
+
 /* scrollbar styles */
 
 @media(min-width: 576px) {
