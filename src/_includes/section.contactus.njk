@@ -1,105 +1,42 @@
-{% for item in collections.sections %}
-{% if item.data.type === 'contactus' %}
-  
 <div class="w-full min-h-screen flex flex-col justify-center items-center py-12">
 
-<section class="bg-gray-100">
-  <div class="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
-    <div class="grid grid-cols-1 gap-x-16 gap-y-8 lg:grid-cols-5">
-      <div class="lg:py-12 lg:col-span-2">
-        <p class="max-w-xl text-lg">
-          We are based in Canberra, Australia but we love to work with clients from all over the world.
-   </p>
-   <p class= "mt-4 max-w-xl text-lg">
-          Get in contact with us using the below details.
-        </p>
+ <section class="bg-gray-100"> 
+    <div class="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
+      <div class="grid grid-cols-2 gap-x-16 gap-y-8 lg:grid-cols-5">
+        <div class="lg:py-12 lg:col-span-3">
+          <h2 class="max-w-xl text-2xl font-bold">
+            What can we do for you?
+          </h2>
+          <p class="mt-4 max-w-xl text-lg">
+            JUX is a user experience (UX) design company that supports businesses to make user-focused brand, web and print material.   Our remit is to make a user experience tailored just for you. No cookie-cutter templates here.
+            To see what we can do for you, use our contact form to let us know what you think will take your business to the next level. 
+          </p>
+          <h2 class="mt-8 max-w-xl text-2xl font-bold">
+            Where is JUX?
+          </h2>
+          <p class="mt-4 max-w-xl text-lg">
+            JUX is on the southside! Of Canberra that is. 
+            Although we're Canberra based, we're happy to help you with your design requirements anywhere in the world. 
+            Outside of COVID lockdown, we're more than happy to meet up with you for coffee anywhere in the region. Until lockdown ends, we're still happy to meet for virtual coffee, no matter where you are. 
+          </p> 
 
-        <div class="mt-8">
-          <p class="text-4xl tracking-wider font-bold text-pink-950">makeit@juxforyou.com </p>
-          <p class="mt-6 text-4xl tracking-wider font-bold text-gray-800">0412 304 261</p>
-        </div>
+          <p class="mt-4 font-bold text-md">
+            Note: Our founders, Amy and Jarryd, only speak English (for now).<br>
+            Please let us know if your project has requirements for translated material.
+          </p>
       </div>
-
-      <!--  
-    
-    
-    *** This code will eventually work as a contact us form...hopefuly *** 
-
-      <div class="p-8 bg-white text-pink-950 rounded-lg shadow-lg lg:p-12 lg:col-span-3">
-        <form action="" class="space-y-4">
-          <div>
-            <label class="sr-only" for="name">Name</label>
-            <input class="w-full p-3 text-sm border-2 border-pink-950 rounded-lg" placeholder="Name" type="text" id="name" />
-          </div>
-
-          <div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
-            <div>
-              <label class="sr-only" for="email">Email</label>
-              <input
-                class="w-full p-3 text-sm border-2 border-pink-950 rounded-lg"
-                placeholder="Email address"
-                type="email"
-                id="email"
-              />
-            </div>
-
-            <div>
-              <label class="sr-only" for="phone">Phone</label>
-              <input
-                class="w-full p-3 text-sm border-2 border-pink-950 rounded-lg"
-                placeholder="Phone Number"
-                type="tel"
-                id="phone"
-              />
-            </div>
-          </div>
-
-          <div>
-            <label class="sr-only" for="message">Message</label>
-            <textarea
-              class="w-full p-3 text-sm border-2 border-pink-950 rounded-lg"
-              placeholder="Message"
-              rows="8"
-              id="message"
-            ></textarea>
-          </div>
+      
+      <div class="lg:py-12 lg:col-span-2 text-center h-full justify-center items-center">
+          <p class= "mx-auto mt-8 text-center font-bold text-lg">
+            Get in touch
+          </p>
 
           <div class="mt-4">
-            <button
-              type="submit"
-              class="inline-flex items-center justify-center w-full px-5 py-3 text-white bg-black rounded-lg sm:w-auto"
-            >
-              <span class="font-medium"> Send Enquiry </span>
-
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                class="w-5 h-5 ml-3"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-              >
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
-              </svg>
-            </button>
+            <p class="text-4xl tracking-wider font-bold text-pink-950">makeit@juxforyou.com </p>
+            <p class="mt-6 text-4xl tracking-wider font-bold text-gray-800">0412 304 261</p>
           </div>
-        </form>
       </div>
     </div>
-  </div>
-</section>
-
-
-<div class="py-20 bg-gray-50">
-    <div class="container mx-auto px-6 md:px-12 xl:px-32">
-        <div class="mb-16 text-center">
-            <h2 class="mb-4 text-center text-2xl text-gray-900 font-bold md:text-4xl">Contact Us page</h2>
-            <h4 class="text-center text-xl text-gray-900 font-bold md:text-2xl mb-4">Email us - makeit@juxforyou.com</h4>
-        </div>
-     </div>
+ </section>
 </div>
-    </div>
-
-     -->
-
-{% endif %}
-{% endfor %}
+      
