@@ -45,17 +45,9 @@
     class="hidden fixed bottom-0 right-0 mb-4 mr-4 text-gray-50 border border-pink-950 px-6 py-1  hover:bg-gray-50 hover:text-pink-950  hover:border-browngray no-underline px-6 py-1 bg-pink-950  shadow-md"
     href="#top" title="Back to Top">Back to top</a>
 </div>
-<div class="fixed bottom-0 left-0 m-6">
+<div class="fixed bottom-0 left-0 m-6 z-50">
   <a href="/contactus" target="_blank" rel="noopener" title="Contact JUX"
     class="block rounded-full bg-pink-950 text-gray-50  hover:bg-white hover:text-black shadow-md p-4">
     <img src="/img/SquareEnv.svg" width="30" height="30" class="block" alt="Contact Us">
   </a>
 </div>
-<!-- "Follow" Tooltip template -->
-<template id="followTip">
-  {% for item in site.social %}
-    <a href="{{ item.url }}"
-      class="inline-block text-gray-50 text-sm bg-pink-950  shadow-md hover:bg-gray-50 hover:text-gray-800 no-underline p-1 px-4 mx-2 my-1"
-      target="_blank" rel="noopener">{{ item.title }}</a>
-  {% endfor %}
-</template>
