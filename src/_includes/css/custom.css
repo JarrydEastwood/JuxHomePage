@@ -157,3 +157,7 @@ html {
 .tippy-tooltip[x-placement^='bottom'] .tippy-arrow {
     border-bottom-color: #ccc;
 }
+
+.clip {
+  clip-path: polygon(0 0, 0% 100%, 100% 50%);
+}
