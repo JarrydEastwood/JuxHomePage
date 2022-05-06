@@ -1,54 +1,55 @@
-# 11ty-landing-page
+# Static Site Generator
+**u3092157 - Jarryd Battishill**
 
-A simple landing page built with 11ty and Tailwind CSS.
-
-> Port of the [Hugo Version](https://github.com/ttntm/hugo-landing-page)
-
-## How to use this template
-
+## How to use this file
 **Requirements:**
-
 1. Eleventy (developed and tested with version 0.12.1)
 2. Tailwind CSS
 
 All other dependencies are either linked from a CDN or included in this repository.
 
 **Setup:**
-
 1. Fork, clone or download
 2. `cd` into the root folder
 3. run `npm install`
 4. run `npm run serve`
 5. open a browser and go to `http://localhost:8080`
 
-**Basic configuration:**
 
-1. Eleventy -> `./.eleventy.js`
-2. Tailwind -> `./tailwind.config.js`
-3. Netlify -> `./netlify.toml`
+## Reflection
 
-CSS is built via PostCSS and based on `./src/_includes/css/_page.css`. Building CSS gets triggered by `./src/css/page.11ty.js` and Tailwind's config is set to JIT (see: [Tailwind docs](https://tailwindcss.com/docs/just-in-time-mode))
+I chose to build my website as a portfolio for my design business.
 
-Please note that this CSS build _does not_ include the `normalize.css` file used for the 2 regular pages (imprint, privacy) - a minified production version is stored in `./src/static/css` and gets included in the build by default.
+## Demographic:
+**age -** 16+
+**income level -** All income levels, due to affordable pricing.
+**cultural background -** all cultures
+**employment -** Public servants because Canberra, but could  be anything.
+**location -** Canberrans, but also anyone from across Australia or even international - gotta dream big.
+**level of education -** All levels
 
-**Change Content:**
+## Goals
 
-Page content is stored in
+• A simple, clean website that's easy to navigate and understand
+• Fun, creative and reflective of my personality
+• Responsive
 
-- `./src/`
-  - `imprint.md`
-  - `privacy.md`
-- `./src/sections/`
-- `./src/_data/features.json`
+## Inspiration
 
-**Change Templates/Layout:**
+I honestly didn't take much inspiration from anywhere except the 11ty/Tailwind template I used - https://jamstackthemes.dev/theme/11ty-landing-page/
 
-Page structure and templates are stored in `./src/_layouts/` and can be edited there.
+I used the template in conjuction with components from www.hyper.ui. Everything else I built myself.
 
-Best have a look at `./layouts/base.njk` first to understand how it all comes together - the page itself is constructed from partial templates stored in `./src/includes/` and each section has a corresponding template file (`section.**.njk`) stored there.
+## Production Process
+I started with building out the Index page, and then expanding to add multiple pages, one with children.
 
-`index.njk` in `./src/` arranges everything, meaning that sections can be added/re-ordered/removed/... there.
+### Lessons learned
+**Tailwind is mobile FIRST** and needs to coded as such, I built all of my pages out as Desktop view forgetting to check mobile size and found my work was broken on mobile after a few days of coding.
 
-**Change images:**
+I started to use the Safari Developer tools for easy checks as I go and enjoyed learning how to code for mobile first.
 
-Images are stored in `./static/img/`; everything in there can be considered a placeholder that should eventually be replaced with your actual production images.
+**I love SSGs and Tailwind!**
+I am so happy with how this turned out and I honestly feel so proud that I could produce something so close to professional quality.
+
+
+### P.S. I even got my emails working with an email DNS-MX.
