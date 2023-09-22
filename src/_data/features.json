@@ -1,32 +1,32 @@
 [
   {
-    "title": "Web Design",
+    "title": "Skill 1",
     "icon": "icon2.svg",
-    "content": "Web Design"
+    "content": "Text field 1"
   },
   {
-    "title": "Wireframing",
+    "title": "Skill 2",
     "icon": "icon1.svg",
-    "content": "Low fidelity, Figma high fidelity"
+    "content": "Text field 2"
   },
   {
-    "title": "Web Development",
+    "title": "Skill 3",
     "icon": "icon3.svg",
-    "content": "Experience working with HTML, CSS, Javascript, Nunjucks, Node.js, "
+    "content": "Text field 3"
   },
   {
-    "title": "Branding",
+    "title": "Skill 4",
     "icon": "icon4.svg",
-    "content": "Using profressional software such as Adobe Creative Suite to create Logos, social presence, pages and posts, packaging, content writing, "
+    "content": "Text field 4"
   },
   {
-    "title": "Corporate Design",
+    "title": "Skill 5",
     "icon": "icon5.svg",
-    "content": "Inforgraphics"
+    "content": "Text field 5"
   },
   {
-    "title": "Consultation",
+    "title": "Skill 6",
     "icon": "icon6.svg",
-    "content": "Brand persona, process analysis, documentation"
+    "content": "Text field 6"
   }
 ]
