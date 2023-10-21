@@ -1,32 +1,22 @@
 [
   {
-    "title": "Skill 1",
-    "icon": "icon2.svg",
-    "content": "Text field 1"
+    "title": "Responsive Design",
+    "icon": "ResponsiveDesign.png",
+    "content": "How many of your customers will be on their computer while looking at your website? We can make sure your website looks great on all devices, from mobile to desktop."
   },
   {
-    "title": "Skill 2",
-    "icon": "icon1.svg",
-    "content": "Text field 2"
+    "title": "Wireframes & Prototyping",
+    "icon": "Wireframes.png",
+    "content": "We have Figma all figured out, so we can create wireframes and prototypes for your website or app so you can see how it will look and feel before spending a dollar on a dev!"
   },
   {
-    "title": "Skill 3",
-    "icon": "icon3.svg",
-    "content": "Text field 3"
+    "title": "Front-end Development",
+    "icon": "FrontEndDev.png",
+    "content": "We specialise in building accessible, interactive and engaging websites using tools such as HTML, CSS, JavaScript, JQuery, NextJS and React."
   },
   {
-    "title": "Skill 4",
-    "icon": "icon4.svg",
-    "content": "Text field 4"
-  },
-  {
-    "title": "Skill 5",
-    "icon": "icon5.svg",
-    "content": "Text field 5"
-  },
-  {
-    "title": "Skill 6",
-    "icon": "icon6.svg",
-    "content": "Text field 6"
+    "title": "User Research & Testing",
+    "icon": "UserResearch.png",
+    "content": "Your users are the most important part of your business, so we can help you engage with them through surveys, interviews and workshops to ensure your website is built with them in mind."
   }
 ]

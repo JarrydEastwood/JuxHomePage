@@ -983,6 +983,10 @@ module.exports = {
       },
     extend: {
       colors: {
+      
+      'aboutGrey': '#D0D0D0',
+      'ofscGreen': '#C7DBCC',
+
         pink: {
           950: '#F7A1C9',
         },
@@ -993,6 +997,7 @@ module.exports = {
         green: {
           950:'#58A183',
         }
+     
       },
       screens: {
         'xs': '300px',      
