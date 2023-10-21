@@ -3,41 +3,37 @@
     <ul class="list-none">
       {% for item in site.social %}
         <li>
-          <a class="text-gray-800 hover:text-pink-950 no-underline hover:underline" href="{{ item.url }}" target="_blank" rel="_noopener">{{ item.title }}</a>
+          <a class="text-gray-800 hover:text-white py-1 px-2 rounded underline-offset-8 hover:bg-gray-800 hover:font-bold underline hover:no-underline" href="{{ item.url }}" target="_blank" rel="_noopener">{{ item.title }}</a>
         </li>
       {% endfor %}
     </ul>
   </div>
+
+
   <div class="h-px sm:h-auto w-1/2 sm:w-px bg-pink-950 mx-auto sm:mx-0"></div>
-  <div class="text-center px-8 py-4">
+  <div class="text-center h-full my-auto px-8 py-4">
     <ul class="list-none">
       <li>
-        <a class="text-gray-800 hover:text-pink-950 no-underline hover:underline" href="{% if isFront %}/story{% else %}{{ site.baseURL }}//story{% endif %}">About us</a>
-      </li>
-      <li>
-        <a class="text-gray-800 hover:text-pink-950 no-underline hover:underline" href="{% if isFront %}/blog{% else %}{{ site.baseURL }}//blog{% endif %}">Blog</a>
+<a class="text-gray-800 hover:text-white py-1 px-2 rounded underline-offset-8 hover:bg-gray-800 hover:font-bold underline hover:no-underline" href="/portfolio">Portfolio</a>
       </li>
     </ul>
   </div>
+
   <div class="h-px sm:h-auto w-1/2 sm:w-px bg-pink-950 mx-auto sm:mx-0"></div>
   <div class="text-center pl-0 sm:pl-8 py-4">
     <ul class="list-none">
       <li>
-        <a class="text-gray-800 hover:text-pink-950 no-underline hover:underline" href="/contactus">Contact us</a>
+        <a class="text-gray-800 hover:text-white py-1 px-2 rounded underline-offset-8 hover:bg-gray-800 hover:font-bold underline hover:no-underline" href="{% if isFront %}/story{% else %}{{ site.baseURL }}//story{% endif %}">About us</a>
       </li>
       <li>
-        <a class="text-gray-800 hover:text-pink-950 no-underline hover:underline" href="/portfolio">Portfolio</a>
+        <a class="text-gray-800 hover:text-white py-1 px-2 rounded underline-offset-8 hover:bg-gray-800 hover:font-bold underline hover:no-underline" href="/contactus">Contact us</a>
       </li>
     </ul>
   </div>
+
 </footer>
-<div class="w-full mx-auto text-center pr-0 sm:pr-8 py-4">
-  <div class="block w-80; mx-auto"><a href='https://ind.ie/ethical-design'>
-  <img class="mx-auto mb-0" alt='Ethical Design Stamp' src='https://ind.ie/ethical-design/images/ethical-design-badge-tiny.svg'></a>
-  <p>We practice <strong>Ethical</strong> Design.</p>
-  </div>
   <span class="py-8 block text-center text-gray-800 text-xl font-light">
-    &copy; Jarryd Eastwood - u3092157
+    &copy; JUX
   </span>
 </div>
 <div class="">
