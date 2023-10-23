@@ -2,21 +2,21 @@
   {
     "title": "Responsive Design",
     "icon": "ResponsiveDesign.png",
-    "content": "How many of your customers will be on their computer while looking at your website? We can make sure your website looks great on all devices, from mobile to desktop."
+    "content": "Whether your customers generally visit your website from their personal mobile or work laptop makes a big difference to how your site displays. I can make sure your website looks, and functions, at any resolution."
   },
   {
     "title": "Wireframes & Prototyping",
     "icon": "Wireframes.png",
-    "content": "We have Figma all figured out, so we can create wireframes and prototypes for your website or app so you can see how it will look and feel before spending a dollar on a dev!"
+    "content": "I've got Figma all figured out. This world leading design tool allows me to create wireframes and and prototypes for your website so you can see how your ideas will function before investing in development."
   },
   {
     "title": "Front-end Development",
     "icon": "FrontEndDev.png",
-    "content": "We specialise in building accessible, interactive and engaging websites using tools such as HTML, CSS, JavaScript, JQuery, NextJS and React."
+    "content": "I specialise in building accessible, interactive and engaging websites using tools such as HTML, CSS, JavaScript, JQuery, NextJS and React."
   },
   {
     "title": "User Research & Testing",
     "icon": "UserResearch.png",
-    "content": "Your users are the most important part of your business, so we can help you engage with them through surveys, interviews and workshops to ensure your website is built with them in mind."
+    "content": "Your users are the most important part of your business. I can help you engage with customers through surveys, interviews and workshops to ensure your website is built with them in mind."
   }
 ]
